@@ -86,7 +86,7 @@ msgstr ""
 
 #: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\sydney/footer.php:22
 #, php-format
-msgid "Proudly powered by %s"
+msgid "© Start7 – Todos os direitos reservados %s"
 msgstr ""
 
 #: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\sydney/footer.php:24

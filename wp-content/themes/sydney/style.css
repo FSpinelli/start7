@@ -28,7 +28,7 @@ Social
 .widget-area .widget_fp_social a,
 .social-menu-widget a,
 .social-menu-widget a:hover {
-	color: #d65050;
+	color: #4584b1;
 }
 .social-menu-widget li {
 	display: inline-block;
@@ -586,6 +586,7 @@ th,td {
 	padding: 5px;
 	text-align: center;
 }
+
 /*--------------------------------------------------------------
 Header
 --------------------------------------------------------------*/
@@ -716,7 +717,7 @@ Header
 		outline: none;
 	}
 	#mainnav ul li a:hover {
-		color: #d65050;
+		color: #4584b1;
 	}
 	#mainnav ul ul a {
 		width: 180px;
@@ -1838,7 +1839,7 @@ Panels
 		width: 50px;
 		height: 1px;
 		margin-left: -25px;
-		background-color: #d65050;
+		background-color: #4584b1;
 	}
 	.panel-grid {
 		max-width: 1170px;
@@ -1982,7 +1983,7 @@ Panels
 -------------------------------------------------------------- */
 
 .sydney_contact_info_widget span {
-	color: #d65050;
+	color: #4584b1;
 	margin-right: 15px;
 }
 .sydney_contact_info_widget div {
@@ -2731,8 +2732,8 @@ Panels
 		background-color: #fff;
 	}
 	.archive .team-social li a {
-		color: #d65050;
-		border: 1px solid #d65050;
+		color: #4584b1;
+		border: 1px solid #4584b1;
 	}
 	.roll-team .team-item .team-pop {
 		color: #fff;
@@ -2783,25 +2784,25 @@ Panels
 /* Elements
 -------------------------------------------------------------- */
 	a {
-		color: #d65050;
+		color: #4584b1;
 	}
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-		color: #d65050;
+		color: #4584b1;
 	}
-	.text-color { color: #d65050;}
+	.text-color { color: #4584b1;}
 	button,
 	input[type="button"],
 	input[type="reset"],
 	input[type="submit"] {
-		background-color: #d65050;
-		border: 1px solid #d65050;
+		background-color: #4584b1;
+		border: 1px solid #4584b1;
 	}
 	button:hover,
 	input[type="button"]:hover,
 	input[type="reset"]:hover,
 	input[type="submit"]:hover {
 		background-color: transparent;
-		color: #d65050;
+		color: #4584b1;
 	}
 	textarea:focus,
 	input[type="text"]:focus,
@@ -2818,143 +2819,143 @@ Panels
 	input[type="search"]:focus,
 	input[type="tel"]:focus,
 	input[type="color"]:focus {
-		border: 1px solid #d65050;
+		border: 1px solid #4584b1;
 	}
 	#mainnav > ul > li > a.active,
 	#mainnav > ul > li > a:hover {
-		color: #d65050;
+		color: #4584b1;
 	}
 	#mainnav ul li ul:after {
-		background-color: #d65050;
+		background-color: #4584b1;
 		transition: all 0.3s ease;
 		-webkit-transition: all 0.3s ease;
 	}
 	#mainnav .sub-menu li:hover > a {
-		background-color: #d65050;
+		background-color: #4584b1;
 	}
 	.error-wrap #search-submit:hover {
-		background-color: #d65050;
-		border-color: #d65050;
+		background-color: #4584b1;
+		border-color: #4584b1;
 	}
 	.text-slider .maintitle:after {
-		background-color: #d65050;
+		background-color: #4584b1;
 	}
 	.content-area .hentry:after {
-		background-color: #d65050;
+		background-color: #4584b1;
 	}
 	.hentry .meta-post a:hover {
-		color: #d65050;
+		color: #4584b1;
 	}
 	.hentry blockquote {
-	    border-left: 3px solid #d65050;
+	    border-left: 3px solid #4584b1;
 	}
 	.blog-pagination ul li {
-		border: 1px solid #d65050;
+		border: 1px solid #4584b1;
 	}
 	.blog-pagination ul li.active,
 	.blog-pagination ul li:hover a {
-		background-color: #d65050;
+		background-color: #4584b1;
 	}
 	.sidebar .widget:before {
-		background-color: #d65050;
+		background-color: #4584b1;
 	}
 	.widget-tags .tag-list a:hover {
-		border: 1px solid #d65050;
+		border: 1px solid #4584b1;
 	}
 	.comment .comment-detail {
-		border: 1px solid #d65050;
+		border: 1px solid #4584b1;
 	}
 	.bottom .socials li:hover a,
 	.go-top {
-		background-color: #d65050;
+		background-color: #4584b1;
 	}
 	.go-top:hover {
-		color: #d65050;
+		color: #4584b1;
 	}
 	.switcher-container .switcher-icon a:focus {
-		color: #d65050;
+		color: #4584b1;
 	}
 	.owl-theme .owl-controls .owl-page span{
-	  border: 2px solid #d65050;
+	  border: 2px solid #4584b1;
 	}
 	.owl-theme .owl-controls .owl-page.active span,
 	.owl-theme .owl-controls.clickable .owl-page:hover span{
-	  background-color: #d65050;
+	  background-color: #4584b1;
 	}
 	.roll-icon-box .icon {
-		border: 1px solid #d65050;
+		border: 1px solid #4584b1;
 	}
 	.roll-icon-box .icon i,
 	.roll-icon-box .content h3 a:hover {
-		color: #d65050;
+		color: #4584b1;
 	}
 	.roll-icon-box.white .icon {
-		background-color: #d65050;
+		background-color: #4584b1;
 	}
 	.roll-icon-box.white .content h3 a {
-		color: #d65050;
+		color: #4584b1;
 	}
 	.roll-icon-list .icon {
-		border: 1px solid #d65050;
+		border: 1px solid #4584b1;
 	}
 	.roll-icon-list .icon i,
 	.roll-icon-list .content h3 a:hover {
-		color: #d65050;
+		color: #4584b1;
 	}
 	.roll-button {
-		background-color: #d65050;
-		border: 1px solid #d65050;
+		background-color: #4584b1;
+		border: 1px solid #4584b1;
 	}
 	.roll-button:hover {
-		color: #d65050;
+		color: #4584b1;
 	}
 	.roll-button.border {
-		color: #d65050;
-		border: 1px solid #d65050;
+		color: #4584b1;
+		border: 1px solid #4584b1;
 	}
 	.roll-button.border:hover {
-		background-color: #d65050;
+		background-color: #4584b1;
 	}
 	.roll-button.light:hover {
-		border: 1px solid #d65050;
-		background-color: #d65050;
+		border: 1px solid #4584b1;
+		background-color: #4584b1;
 	}
 	.project-filter li a.active,
 	.project-filter li a:hover {
-		background-color: #d65050;
+		background-color: #4584b1;
 	}
 	.roll-testimonials .name {
 		font-family: "Raleway", sans-serif;
 		font-size: 18px;
 		font-weight: 500;
-		color: #d65050;
+		color: #4584b1;
 	}
 	.roll-project .project-item .project-pop {
-		background-color: #d65050;
+		background-color: #4584b1;
 	}
 	.roll-socials li a {
-		border: 1px solid #d65050;
+		border: 1px solid #4584b1;
 	}
 	.roll-socials li a:hover {
-		background-color: #d65050;
-		border: 1px solid #d65050;
+		background-color: #4584b1;
+		border: 1px solid #4584b1;
 	}
 	.roll-infomation li.address:before,
 	.roll-infomation li.phone:before,
 	.roll-infomation li.email:before {
-		color: #d65050;
+		color: #4584b1;
 	}
 	.roll-progress .progress-animate {
-		background-color: #d65050;
+		background-color: #4584b1;
 	}
 	.roll-team .team-item .team-pop .team-social li:hover a {
-		color: #d65050;
+		color: #4584b1;
 	}
 	.roll-team .team-item .team-pop {
-		background-color: #d65050;
+		background-color: #4584b1;
 	}
 	.roll-team .team-content .name {
-		color: #d65050;
+		color: #4584b1;
 	}
 /* Media Queries
 -------------------------------------------------------------- */
@@ -3207,3 +3208,22 @@ Panels
 			margin-bottom: 0;
 		}
 	}
+
+
+
+
+
+
+
+
+
+
+/*CUSTOM*/
+.form-control {
+	width: 100% !important;
+	resize: none;
+}
+
+textarea.form-control {
+	height: auto;
+}
